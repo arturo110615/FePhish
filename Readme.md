@@ -1,0 +1,2 @@
+
+Command =>> bash fephish.sh
